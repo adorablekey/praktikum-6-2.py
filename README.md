@@ -17,3 +17,9 @@
           print("lambda b(3, 4):", b(3, 4))
           print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
           print("lambda d('hello keysia'):", d("keysia"))
+# code program
+![Screenshot 2025-01-18 162333](https://github.com/user-attachments/assets/2c21f424-8b5c-413a-90c6-04c1c6fd5a89)
+# hasil program
+![Screenshot 2025-01-18 162322](https://github.com/user-attachments/assets/db0ae94e-1fc5-4193-b81e-50f8178da7b7)
+
+
